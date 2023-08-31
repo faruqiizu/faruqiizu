@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @faruqiizu
-- 👀 I’m interested in UI/UX Design & Graphic Design
+- 👋 Hi, I’m Izzuddin Faruqi @faruqiizu
+- 👀 I’m interested in UI/UX Design, Graphic Design and QA Engineer
 - 🌱 I’m currently learning Java, Automation and Test Management Tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
