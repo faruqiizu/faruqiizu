@@ -1,6 +1,6 @@
 <h1 align="center">
-Hi, Izzuddin Faruqi!
-	<a href="https://github.com/alfianadityads" target="_self">
+Hi, i'm Izzuddin Faruqi!
+	<a href="https://github.com/faruqiizu" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
