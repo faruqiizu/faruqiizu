@@ -78,3 +78,5 @@ We used Spreadsheet for Test Case Management, Trello for Project Management, Pos
     <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=faruqiizu&theme=react&hide_border=true" alt="Streak Stats"/>
   </a>
 </div>
+
+I'm excited about the intersection of technology and quality assurance, and I'm always open to learning new things and exploring opportunities for growth. Let's connect and explore the world of QA together!
