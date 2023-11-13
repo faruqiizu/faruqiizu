@@ -1,10 +1,80 @@
-- 👋 Hi, I’m Izzuddin Faruqi @faruqiizu
-- 👀 I’m interested in UI/UX Design, Graphic Design and QA Engineer
-- 🌱 I’m currently learning Java, Automation and Test Management Tools
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">
+Hi, Izzuddin Faruqi!
+	<a href="https://github.com/alfianadityads" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-<!---
-faruqiizu/faruqiizu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# About Me
+
+Hello there! 👋 I'm Faruqi, a passionate Entry-Level QA Engineer with a keen interest in ensuring software quality and delivering exceptional user experiences. My journey into the world of technology started at IT Telkom Purwokerto, where I specialized in Computer Science, and it has been an exciting ride ever since.
+
+## Skills
+
+- **Testing:** Currently immersed in manual and automated testing techniques for web and APIs using tools such as Selenium, Rest Assured, and JUnit.
+- **Programming:** I'm currently learning Java and honing my Quality Assurance Engineer (Automation, Manual, Debugging) skills.
+- **Collaboration:** Good team player with excellent communication skills, accustomed to working in agile environments.
+- **Tools:** Currently immersed in testing tools like Postman and version control systems like Git.
+
+## Projects
+
+### Testing on API and Application Mentutor
+
+About MENTUTOR APP "Mentutor is present as a place for teachers to monitor their students both from collecting assignments and by discussing with students through the available forums", in charge of Manual & Automation Testing on Admin Feature.
+We used Spreadsheet for Test Case Management, Trello for Project Management, Postman for Manual Testing, and InteliJ Idea (Java, Apache Maven, Cucumber, Rest Assured, Gherkin) for Automation Testing.
+
+### Testing on API Todoist
+
+A task and project management application used to organize tasks, to-do lists, and projects. Todoist API allows developers to interact with data and functionality from Todoist programmatically, in charge of Manual & Automation Testing on Comments Feature.
+We used Spreadsheet for Test Case Management, Trello for Project Management, Postman for Manual Testing, and InteliJ Idea (Java, Apache Maven, Cucumber, Rest Assured, Gherkin) for Automation Testing.
+
+## Education
+
+- **Alterra Academy**, in Quality Assurance Engineer, 2023
+- **IT Telkom Purwokerto**, Bachelor in Computer Science, 2018
+
+## Certifications
+
+- Belajar Dasar-Dasar DevOps by Dicoding Academy
+- AWS re/Start Program Learner by Orbit Future Academy
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/izzuddin-faruqi/" title="Linkedin"> <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="50" height="50"/> </a>
+<!-- <a href="mailto:alfianadityadwi@gmail.com" title="Gmail"> <img src="https://www.shareicon.net/data/2015/10/03/111547_email_512x512.png" width="50" height="50"/> </a> -->
+<a href="https://t.me/izufaruqi" title="Telegram"> <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="50" height="50"/> </a>
+
+
+### Languages
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?&logo=openjdk)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Cucumber](https://img.shields.io/badge/-Cucumber-000?&logo=Cucumber)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faruqiizu&label=Profile%20views&color=0e75b6&style=flat" alt="faruqiizu" /> </p>
+
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alfianadityads&theme=radical&show_icons=true&count_private=true" align="center" /></div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=radical&card_width=445&layout=compact" align="center" /></div>  -->
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+  <a href="https://github.com/faruqiizu">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruqiizu&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="faruqiizu" />
+  </a>
+  <a href="https://github.com/faruqiizu">
+    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=faruqiizu&theme=react&hide_border=true" alt="Streak Stats"/>
+  </a>
+</div>
