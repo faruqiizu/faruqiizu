@@ -21,22 +21,22 @@ Hello there! 👋 I'm Faruqi, a passionate Entry-Level QA Engineer with a keen i
 
 ### Testing on API and Application Mentutor
 
-About MENTUTOR APP "Mentutor is present as a place for teachers to monitor their students both from collecting assignments and by discussing with students through the available forums", in charge of Manual & Automation Testing on Admin Feature.
-We used Spreadsheet for Test Case Management, Trello for Project Management, Postman for Manual Testing, and InteliJ Idea (Java, Apache Maven, Cucumber, Rest Assured, Gherkin) for Automation Testing.
+Mentutor is present as a place for teachers to monitor their students both from collecting assignments and by discussing with students through the available forums. Testing on this project using Selenium Java, Serenity BDD, Cucumber, Rest Assured, Postman, Maven, and IntelliJ IDEA. There are 72 Test Cases for Web Testing and 96 Test Cases for API Testing. Where 100% of Test Cases are passed in Web Testing and 97% of Test Cases are passed in API Testing. In Web Testing, I tested the Admin feature.
 
 ### Testing on API Todoist
 
-A task and project management application used to organize tasks, to-do lists, and projects. Todoist API allows developers to interact with data and functionality from Todoist programmatically, in charge of Manual & Automation Testing on Comments Feature.
-We used Spreadsheet for Test Case Management, Trello for Project Management, Postman for Manual Testing, and InteliJ Idea (Java, Apache Maven, Cucumber, Rest Assured, Gherkin) for Automation Testing.
+A task and project management application used to organize tasks, to-do lists, and projects. Todoist API allows developers to interact with data and functionality from Todoist programmatically. Testing on this project using Selenium Java, Serenity BDD, Cucumber, Rest Assured, Postman, Maven, and IntelliJ IDEA. There are 59 Test Cases for API Testing. Where 95% of Test Cases are passed in API Testing.
 
 ## Education
 
 - **Alterra Academy**, in Quality Assurance Engineer, 2023
+- **Orbit Future Academy**, in AWS re/Start Program Learner, 2022
 - **IT Telkom Purwokerto**, Bachelor in Computer Science, 2018
 
 ## Certifications
 
-- Belajar Dasar-Dasar DevOps by Dicoding Academy
+- Basic Learning of Git by Progate
+- Basic Learning of DevOps by Dicoding Academy
 - AWS re/Start Program Learner by Orbit Future Academy
 
 <h3 align="left">Connect with me:</h3>
